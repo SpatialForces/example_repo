@@ -1,0 +1,23 @@
+Relevance (25 points):
+
+    Apply SAP and Esri technologies together to broad extent
+    Compliance with the selected Challenge
+    Solution relevance to UN Sustainable Development Goals
+
+Innovation (25 points):
+
+    Use of unique approaches to solve a problem
+    Creativity in application design
+    Inclusion of AI or machine learning for example to predict outcomes or preventive problem solving
+
+Entertainment Value (25 points):
+
+    Does the presentation hook people in?
+    Does it stand out compared to others?
+    Does it tell a story that will stick?
+
+Visual Experience (25 points):
+
+    Does the solution have a compelling, intuitive UX?
+    Does the solution have exceptional visual appeal?
+    Does it include analytics to visualize the result?
