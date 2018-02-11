@@ -1,0 +1,10 @@
++ dynamodb-geo (java / node):
+- The Geo Library for Amazon DynamoDB enables Java developers to easily create and query geospatial data.
+-- https://github.com/awslabs/dynamodb-geo
+- Node wrapper
+-- https://github.com/rh389/dynamodb-geo.js
+
++ geohash-poly (node):
+- Transform a GeoJSON (Multi)Polygon to a list of geohashes that cover it.
+-- https://github.com/derrickpelletier/geohash-poly
+-- (alternative) https://github.com/sunng87/node-geohash

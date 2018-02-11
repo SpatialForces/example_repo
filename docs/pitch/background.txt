@@ -1,0 +1,24 @@
++ SAP + Esri collaboration
+- https://news.sap.com/esris-arcgis-to-support-sap-hana-as-enterprise-geodatabase-deepening-integration-across-products/
+-- "Esri will commercially support ArcGIS using SAP HANA as an enterprise geodatabase."
+-- "The collaboration between SAP and Esri is expected to harness the power of combining two market-leading platforms, providing the ability to run both GIS workloads and advanced spatial analytics on a single SAP HANA geodatabase. Customers will be able to apply sophisticated business rules and relationships to spatial data directly in SAP HANA, define advanced georelational models such as topologies and networks, and permit both GIS and enterprise business users to work within the same multiuser access and editing environment. In addition, the planned integration will result in massive parallelization of computationally intense workloads, all in memory, enabling new solutions that could not previously be delivered."
+-- " “We’re very excited about the enterprise geodatabase support for SAP HANA,” said Jack Dangermond, president, Esri. “It will bring our customers speed, simplicity and better integration with their enterprise information. For SAP customers, it delivers a complete platform for mapping and geospatial intelligence. By synchronizing our platforms, our respective customers will benefit across the enterprise. We’re doing the work to make sure that GIS and mapping is available to all — not just traditional mapping experts.” "
+
++ Motivation
+- Examples https://www.youtube.com/watch?v=1oWSIlqQ0UQ
+- Example (land slides) https://www.youtube.com/watch?v=G2SNcofvgoI
+- "GIS + ERP [Enterprise Resource Planning] = A Game Changer"
+- Likely a marketing tool: https://www.sap.com/documents/2017/06/0c9a4b8a-c07c-0010-82c7-eda71af511fa.html
+
++ Those who benefit
+- [give stakeholders]
+- [give specific companies that would benefit (look up some that SAP alreay help)]
+
++ The benefits
+- https://blogs.sap.com/2018/01/17/the-arcgis-enterprise-geodatabase-now-supports-hana.-now-what/
+--  "To recap, here’s why you should look at using HANA as an ArcGIS Enterprise geodatabase:
+    Seamless integration of business, spatial and other data on HANA
+    GIS acceleration – leverage HANA performance and scalability by using feature classes mashed up with other data via query layers.  Consume in any ArcGIS app by any ArcGIS user.
+    With the data in HANA, enable GIS data to be used throughout the organization at high speed and in the form best suited for each part of the organization.  No longer is GIS data locked away.
+    Landscape consolidation – moving the geodatabase to HANA
+    Easier and faster development effort and less maintenance – no need to create additional indices or aggregate tables"

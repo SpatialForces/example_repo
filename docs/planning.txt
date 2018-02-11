@@ -1,0 +1,15 @@
+License Technologies:
+SAP HANA SPATIAL
+SAP HANA EARTH OBSERVATION SERVICE
+SAP HANA SPATIAL SERVICES
+SAP HANA XSA
+ESRI ARCGIS SERVER
+ESRI ARCGIS PRO
+ESRI ARCGIS ONLINE
+
+Allowed before the event: "design, logo, wireframes, idea validation, digital mockups and the like are permitted"
+
+4 Judges: SAP Development Manager, SAP Next-GEN SVP, Esri CTO, Esri GIS Manager
+8 Supporters: SAP Cloud Analytics Product Management, 2x SAP Spatial, SAP HANA, SAP Dev. Manager, 2x Esri SDK, Esri Systems Architect
+
+Support:
