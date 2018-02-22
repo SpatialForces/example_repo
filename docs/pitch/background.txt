@@ -12,6 +12,9 @@
 
 + Those who benefit
 - [give stakeholders]
+- [transform data into a product that people will use and has value]
+- [economic / financial benefits]
+- [UN development goals: what does this help, and how does it help quantify / validate / test a goal]
 - [give specific companies that would benefit (look up some that SAP alreay help)]
 
 + The benefits

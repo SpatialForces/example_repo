@@ -8,3 +8,6 @@
 - Transform a GeoJSON (Multi)Polygon to a list of geohashes that cover it.
 -- https://github.com/derrickpelletier/geohash-poly
 -- (alternative) https://github.com/sunng87/node-geohash
+
++ machine learning (node):
+- https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5
