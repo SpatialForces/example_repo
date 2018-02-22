@@ -1,0 +1,20 @@
+- We have an org called SpatialForces (https://github.com/SpatialForces)
+
+- Git quick commands:
+*note, all these commands depend on the branch that you are working on.
+Files and changes in other branches will be hidden*
+
+  - git pull    (pull latest changes to your branch)
+  - git status  (list current status, highlighting unversioned files & red)
+  - git add .   (adds all unversioned files to be ready for a commit)
+  - git status  (check again to see that new files are added & green)
+  - git commit -m "[your text goes here]" (commit the added files w/ a commit message)
+  - git status  (check and see that there are no unversioned files, but will be 1+ commits ahead of remote)
+  - git push    (push local commits to remote branch)
+
+  - git reset   (undo for 'git add .')
+  - git stash   (don't do this often, but it stashes unversioned files for work later. It's like saving without commit. The changes will be hidden)
+  - git stash list (see a list of stashes)
+  - git stash apply (apply most recent stash, i.e., bring it back into working mode)
+
+  We aren't going to deal with pull requests
