@@ -1,14 +1,25 @@
+Fuzzy Clustering (FCM)
+
+Good at:
+-Clustering, first order relationships
+-Allows for associations with multiple clusters
+
+note: I've been leveraging this technique to boost performance of ANN
+__________________________________________________________________________
+
 Self Organizing Map (SOM)
 Unsupervised learning technique
 
 Good at: 
 -Clustering
 
-tends to favor equal sized clusters
+Drawbacks:
+-tends to favor equal sized clusters
 
 __________________________________________________________________________
 Artificial Neural Network (ANN)
 Shallow feedforward network
+Supervised
 
 Good at:
 Regression, e.g. interpolation, inferring continuous fields from inputs
@@ -19,10 +30,11 @@ Drawbacks,
 -Not as good at spatial relationships as CNNs
 -Not as good at time-series as RNNs
 
-Can handle 3-4D data out of the box
+note: can handle 3-4D data out of the box
 __________________________________________________________________________
 Convolutional neural network (CNN)
 Deep learning technique a.k.a really finicky
+Supervised
 
 Good at:
 -Feature extraction e.g. building perimeters, roads, etc.
@@ -32,6 +44,6 @@ Drawbacks:
 -2d spatial data
 -Memory intensive + difficult to train
 
-note that there are ways of linking CNNs together and with other methods to handle 3-4D data
+note: there are ways of linking CNNs together and with other methods to handle 3-4D data
 
 
