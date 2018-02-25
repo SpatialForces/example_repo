@@ -4,7 +4,8 @@ Good at:
 -Clustering, first order relationships
 -Allows for associations with multiple clusters
 
-note: I've been leveraging this technique to boost performance of ANN
+note: I've been leveraging this technique to boost performance of an ANN
+
 __________________________________________________________________________
 
 Self Organizing Map (SOM)
@@ -15,6 +16,19 @@ Good at:
 
 Drawbacks:
 -tends to favor equal sized clusters
+
+__________________________________________________________________________
+Decision Tree
+
+Good at:
+-multi-class classifcation -> regression with enough leaves
+
+Drawbacks:
+-not suitable for time-series
+-not as good at generalizing problems from sparser data
+-not spatially smooth
+
+note: relatively fast, can be improved with bagging or boosting
 
 __________________________________________________________________________
 Artificial Neural Network (ANN)
@@ -31,6 +45,7 @@ Drawbacks,
 -Not as good at time-series as RNNs
 
 note: can handle 3-4D data out of the box
+
 __________________________________________________________________________
 Convolutional neural network (CNN)
 Deep learning technique a.k.a really finicky
@@ -45,5 +60,3 @@ Drawbacks:
 -Memory intensive + difficult to train
 
 note: there are ways of linking CNNs together and with other methods to handle 3-4D data
-
-
