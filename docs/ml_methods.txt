@@ -1,0 +1,13 @@
+Artificial Neural Network
+
+
+Convolutional neural network (CNN)
+Deep learning technique a.k.a really finicky
+
+Good at:
+-Feature extraction e.g. building perimeters, roads, etc.
+-Classification, labeling
+
+Drawbacks:
+-2d spatial data
+-Memory intensive + difficult to train
