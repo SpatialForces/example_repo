@@ -1,6 +1,26 @@
-Artificial Neural Network
+Self Organizing Map (SOM)
+Unsupervised learning technique
 
+Good at: 
+-Clustering
 
+tends to favor equal sized clusters
+
+__________________________________________________________________________
+Artificial Neural Network (ANN)
+Shallow feedforward network
+
+Good at:
+Regression, e.g. interpolation, inferring continuous fields from inputs
+Classification, sorting, categorization
+
+Drawbacks,
+-Tends to smooth out feutures in regression problems
+-Not as good at spatial relationships as CNNs
+-Not as good at time-series as RNNs
+
+Can handle 3-4D data out of the box
+__________________________________________________________________________
 Convolutional neural network (CNN)
 Deep learning technique a.k.a really finicky
 
@@ -11,3 +31,7 @@ Good at:
 Drawbacks:
 -2d spatial data
 -Memory intensive + difficult to train
+
+note that there are ways of linking CNNs together and with other methods to handle 3-4D data
+
+
