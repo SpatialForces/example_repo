@@ -13,6 +13,7 @@ Allowed before the event: "design, logo, wireframes, idea validation, digital mo
 8 Supporters: SAP Cloud Analytics Product Management, 2x SAP Spatial, SAP HANA, SAP Dev. Manager, 2x Esri SDK, Esri Systems Architect
 
 Main link page: http://www.esri.com/landing-pages/sap-hana
+Document help link: https://mdocs.sap.com/mcm/public/v1/open?shr=wwD6_XIPXAy2F1Bcp3jAE1cM8_BragMpkjHP-qouyzk
 
 Before Hackathon TODO:
 - List + / - of ML algorithms for imagery [AARON]
