@@ -25,3 +25,37 @@
     With the data in HANA, enable GIS data to be used throughout the organization at high speed and in the form best suited for each part of the organization.  No longer is GIS data locked away.
     Landscape consolidation – moving the geodatabase to HANA
     Easier and faster development effort and less maintenance – no need to create additional indices or aggregate tables"
+
+
+
+
++ Common Questions from ArcGIS
+I am an ArcGIS user. What does SAP HANA give me?
+If you are an ArcGIS user, you can access all of your SAP and other business data through a single source. Plus, with SAP HANA you also get fast query processing performance. With ArcGIS for Desktop and ArcGIS for Server you can create direct connections to SAP HANA to access SAP HANA spatial and business data to create map layers, accelerate spatial queries, and publish services that can be used with ArcGIS, SAP, 3rd party and custom applications.
+
+You can also connect to ArcGIS for Server services referenced in ArcGIS Online.
+
+I am a SAP HANA user. What does ArcGIS give me?
+You use ArcGIS to make mapping and location-aware apps that integrate your business data. ArcGIS can display, analyze, and enrich information from many sources, including SAP HANA. With ArcGIS’s spatial analytic capabilities you can:
+
+Quickly see changes that impact your business
+Reveal patterns and trends in your data that bring new insights
+Illustrate time, show status and performance, and support decision-making
+Enable evaluation and simulation that support strategic decisions
+Provide a destination where your employees go for maps and authoritative information about your assets and resources
+Enable people to work together by securely sharing data, apps, and information
+Learn more about ArcGIS.
+
+I am developer. How do I get started with building apps with SAP HANA and ArcGIS?
+Since both ArcGIS and SAP HANA support modern, web-based development standards, GIS or SAP HANA developers can create embedded or standalone applications using familiar tools such as JavaScript, REST, HTML5, and CSS use their preferred development environment, or use ArcGIS or SAP HANA application builders, templates, or configurable applications. ArcGIS and SAP HANA can both publish and consume services to create geo-centric or business-centric applications.
+
+Learn more about ArcGIS for Developers.
+
+Which SAP apps already have ArcGIS technology embedded in them?
+SAP delivers several applications that are “ArcGIS-ready” including SAP Work Manager, Service Manager, Multiresource Scheduling, and SAP Lumira. SAP offers engineered services (GEO.e for geo-enablement) to bring mapping, spatial analysis, and other geographic content to SAP business suite applications including EAM, real estate (RE/FX), and CRM. SAP and its certified partners implement GEO.e. and provide mobile and ArcGIS integration.
+
+What versions of ArcGIS and SAP HANA do I need?
+SAP HANA is fully supported with the current version of ArcGIS. For details see System Requirements.
+
+Do Esri and SAP have a joint development roadmap?
+Yes, Esri’s and SAP’s HANA, Business Suite, BI, and Mobile development teams have worked closely together for many years to ensure our platforms interoperate using the latest standards and user preferences. Esri supported the SAP HANA development team in their implementation of spatial types and operators to ensure interoperability and Esri has progressively built out-of-the-box capabilities in ArcGIS for easy access and use of spatial and business data residing in SAP HANA, first through query layer and more recently feature service support. The teams continue to plan and prepare for additional support to be rolled out in the future.
