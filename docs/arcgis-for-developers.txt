@@ -1,0 +1,20 @@
+Esri ArcGIS Pro specific technical materials
+
+ArcGIS Server - ex. publishing Image Services
+(https://enterprise.arcgis.com/en/server/latest/get-started/windows/key-concepts-for-image-services.htm)
+
+ArcGIS Pro - ex. using Image Services (process, analyze, classify, visualize)
+(http://pro.arcgis.com/en/pro-app/help/data/imagery/imagery-and-raster-in-arcgis-professional.htm)
+
+ArcGIS For Developers - browse Labs (https://developers.arcgis.com/labs/browse/?) by Topics, Products
+  ex. DevLabs workflow (https://developers.arcgis.com/labs/) "Data, Design, Develop"
+   - Import Data (from CSV, GeoJSON, GeoDatabase, or Shapefiles) or create empty layer
+   - Prepare Data (extract features, intersect, merge, summarize)
+   - Design Layer and Map (configure popups, style, 2D, 3D - scene viewer)
+   - * Develop Mapping Application (search for places, buffer/intersect geometry...)
+
+  ex. ArcGIS Web AppBuilder - sample code for custom widgets
+  (https://developers.arcgis.com/web-appbuilder/sample-code/create-custom-in-panel-widget.htm)
+
+  ex. ArcGIS Python API - floods analysis
+  (https://developers.arcgis.com/python/sample-notebooks/chennai-floods-analysis/)
