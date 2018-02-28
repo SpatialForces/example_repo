@@ -35,6 +35,6 @@
 - HANA Predictive Analysis Library: https://help.sap.com/viewer/2cfbc5cf2bc14f028cfbe2a2bba60a50/1.0.12/en-US/c9eeed704f3f4ec39441434db8a874ad.html?q=SAP%20HANA%20predictive%20analysis%20library
 
 + Supercharge Mash-ups
-- ArcGIS Business Analysis & Geo-enrichment documents
-- Esri Demographic data (~100 variables / country)
+- ArcGIS Business Analysis & Geo-enrichment documents (use JS API 3.x versions)
+- Esri Demographic data (~100 variables / country): https://esri.app.box.com/v/GeoEnrichmentServiceDevelopers/folder/46888156068
 - quick setup!: arcGIS online hosted proxy
