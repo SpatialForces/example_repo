@@ -20,7 +20,7 @@ Segmentation and Classification toolset in ArcMap (Spatial Analyst Toolbox)
 It's a toolset in Arc to prepare segmented rasters to use in creating classified raster datasets. Not sure how good this is. Has anybody used it?
 http://desktop.arcgis.com/en/arcmap/latest/tools/spatial-analyst-toolbox/an-overview-of-the-segmentation-and-classification-tools.htm
 
-Has following classifiers:
+Arc allows you to classify the output from one of the algorithms:
   - Deep learning
   - Maximum likelihood
   - SVM

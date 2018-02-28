@@ -23,7 +23,9 @@ Before Hackathon TODO:
 
 - Investigate ArcObjects [BEHZAD]
 - Figure out which ML toolboxes we could use (see potential_tools.txt) [BEHZAD]
-- Create vague workflow / architecture & analytics! [BEHZAD]
+- Create vague workflow / architecture & analytics! [BEHZAD] (when we start & have had snacks)
 
 - Create a demo ArcGIS App [SARA]
 - Wireframe: logo, Esri WebApp, non-esri web app [SARA]
+
+Publish results as an instance to ArcServer.
