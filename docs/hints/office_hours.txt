@@ -1,0 +1,40 @@
++ Introduction to the SAP + Esri Hackathon
+- HANA SQL will be used to query well-known text identifiers (i.e., location.ST_Within(**))
+- HANA SQL was demoed in HanaStudio
+- ? Started showing db_scan clustering for POIs in Berlin within Pro
+
++ Benefits of Hana Spatial & Combine w/ AcrGIS
+- Stressed how HANA is in-memory & fast
+- Can build visual models instead of SQL query
+- Stressed clustering again (grid, db_scan, kmeans)
+- HANA Spatial architecture --> ArcGIS Enterprise --> [Desktop & Pro, Portal, SAP business-obj]
+- Demoed a HANA web app that shows counts within polygons (demoing speed)
+
++ Deep Dive Mapping
+- Options for building mapping apps: browser (configurable web apps, web AppBuilder), native (AppStudio)
+- Native app building: ArcGIS Runtime sdk
+- Browser app building: JS API, widgets, webGL,
+
++ GeoAI
+- 1) Exploration: visual feature selection, hotspot analysis, spatiotemporal analysis
+- 2) Prepare features
+- 3) Extract features: use model builder
+- 4) Feature selection: determine correlation of extracted features
+- 5) AI model building
+- 6) Post prediction action: ex. create a service area for results
+
++ Imagery
+-- Object detection using DL: train TensorFlow CNN w/ manually bounded image features
+--- Call Call model from Pro (on the fly with python api?)
+--- Esri Spatial Analysis / Image Analysis allows exporting training data sets
+--- Connect to ArcGIS Field Apps (e.g., Workforce + Collector)
+
++ Raster Data & ML
+- AFL + Predictive Analysis Library (PAL) (ML)
+- HANA Extended Machine Learning (EML), interfaces with TF via SQL
+- HANA Predictive Analysis Library: https://help.sap.com/viewer/2cfbc5cf2bc14f028cfbe2a2bba60a50/1.0.12/en-US/c9eeed704f3f4ec39441434db8a874ad.html?q=SAP%20HANA%20predictive%20analysis%20library
+
++ Supercharge Mash-ups
+- ArcGIS Business Analysis & Geo-enrichment documents
+- Esri Demographic data (~100 variables / country)
+- quick setup!: arcGIS online hosted proxy
