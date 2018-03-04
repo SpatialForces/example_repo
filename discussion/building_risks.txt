@@ -1,0 +1,10 @@
+- age of the building
+- subsoil (probably not going to use)
+- lithology (relation to subsoil)
+- exterior wall material
+- regularity
+
+At any one point, 
+we want to assign a number of people in each cell, based on the land use %
+
+Use SF for visualization!

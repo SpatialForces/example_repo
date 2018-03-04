@@ -1,0 +1,6 @@
+1) Human life loss (largest population)
+2) Economic loss (building damage)
+3) General risk (shaking intensity) [tbd]
+
+
+Three time groups - (% occupancy) daytime, eventing (traveling), night

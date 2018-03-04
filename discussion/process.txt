@@ -1,0 +1,25 @@
+Overall: People come back with more data & tune the parameters
+
+Assumptions & methods:
+- we make our own building profiles, SF is training data (clip land usse type o building type)
+- Use the model to ingest landuse outside of SF (of what building use types) assign a probability that a landuse density 
+- This will break down the % of each profile for each land use type
+- Then, we use an assumption of what people are doing at different times of day, then assign to land cover type
+- ? we aggregate to this to the grid resolution of the shaking data 
+
+ML Usage:
+- Use SF buildign data to train building profiles to land use
+- NN for shake data
+
+
+Assigning building profile probabilities to land use:
+- Examine distribution of building types for each land use in SF
+- Create a model (ML or linear aka logistic regression) to predict building profiles from land use
+- Apply model to areas outside of SF
+
+
+
+1) Aggregate population into grids
+2) Assign building occupancy type percentages to population
+3) Connect shaking to buildings & connect to populations
+
