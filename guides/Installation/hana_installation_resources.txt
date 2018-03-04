@@ -1,0 +1,3 @@
++ installation workflow for hxe virtual machine
+- https://www.sap.com/developer/groups/hxe-install-vm.html
+- Must 1) register 2) get a download link for the download manager 3) download & install on hypervisor

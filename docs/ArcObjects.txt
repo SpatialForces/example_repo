@@ -1,0 +1,30 @@
+ArcGIS Engine is a complete library of embeddable geographic information system (GIS) components for developers to build custom applications. Using ArcGIS Engine, developers can embed ArcGIS functions into other information tools and build custom applications that deliver advanced GIS solutions. ArcGIS Engine is supported on Windows, Solaris, and Linux (Intel); therefore, developers can create cross-platform custom solutions for a wide range of users.
+
+
+ArcObjects:
+
+ArcObjects SDK for Java vs. ArcGIS Runtime for Java:
+
+  ArcGIS Runtime SDK: write standalone applications, viewing / editing mostly ArcGIS Online data.
+  ArcObjects java SDK: Almost everything ArcMap can do. In fact, ArcMap and ArcCatalog seems to be written with ArcObjects.
+  With ArcObjects, you can even add functionality to ArcMap by adding toolbar buttons and developing multiple extension types.
+
+- ArcGIS Runtime SDK for Java: https://developers.arcgis.com/java/10-2/guide/guide.htm
+- ArcObjects for Java: https://desktop.arcgis.com/en/arcobjects/latest/java/#37b4470a-30e5-4650-a6e9-18ccccdf2b52.htm
+- ArcObjects SDK: http://help.arcgis.com/en/sdk/10.0/java_ao_adf/ao_home.html
+- http://edndoc.esri.com/arcobjects/9.1/ArcGISDevHelp/DevelopmentEnvs/Java/GettingStarted_Eng.htm
+
+-----------------------------------------------------------------
+Segmentation and Classification toolset in ArcMap (Spatial Analyst Toolbox)
+
+It's a toolset in Arc to prepare segmented rasters to use in creating classified raster datasets. Not sure how good this is. Has anybody used it?
+http://desktop.arcgis.com/en/arcmap/latest/tools/spatial-analyst-toolbox/an-overview-of-the-segmentation-and-classification-tools.htm
+
+Arc allows you to classify the output from one of the algorithms:
+  - Deep learning
+  - Maximum likelihood
+  - SVM
+  - Random tree
+  - Clustering
+
+ You can create Esri classifier definition files using these algorithms. The output can be used as input to the Esri Python adaptor function Classify or Detect.

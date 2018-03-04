@@ -1,0 +1,4 @@
++ Related to the UN Sustanable Development Goals (.e.g, poverty housing, agriculture allocation, find clean water?, industry/innovation/infrastructure, urban sprawl (sustainability), climate-anything, bio-predictors,)
++ Damage assessment from altimetry data (provided resolution is high enough)
++ Threat detection
++ Forecasting
