@@ -1,0 +1,3 @@
+HINTS:
+- remove analytic permissions
+- when we create the model, make sure that we can represent each attr.
